@@ -1,6 +1,6 @@
-# 🚀 Computer Vision Roadmap 🚀
+# 🚀 Beginner-Friendly Computer Vision Roadmap 🚀
 
-This roadmap is designed to guide you through mastering **Computer Vision (CV)**. It covers key topics, tools, and project ideas to help you build a strong portfolio. Let's dive in! 🎯
+This roadmap is designed for beginners to learn **Computer Vision (CV)** step-by-step. It includes **learning resources**, **industry tools**, and **project ideas** to help you build a strong foundation and gain practical experience. Let's get started! 🎯
 
 ---
 
@@ -25,6 +25,16 @@ Learn the foundational topics of Computer Vision.
 ### 🛠️ **Tools**:
 - OpenCV, PIL, scikit-image.
 
+### 📖 **Resources**:
+- **Books**:
+  - *Learning OpenCV 4 Computer Vision with Python* by Joseph Howse.
+- **Courses**:
+  - [OpenCV for Beginners](https://www.udemy.com/course/opencv-for-beginners/) (Udemy).
+  - [Introduction to Computer Vision](https://www.coursera.org/learn/introduction-computer-vision) (Coursera).
+- **Websites**:
+  - [OpenCV Tutorials](https://docs.opencv.org/master/d9/df8/tutorial_root.html).
+  - [PyImageSearch](https://www.pyimagesearch.com/).
+
 ### 🎯 **Project Ideas**:
 - Build an image filter app (e.g., apply grayscale, blur, or edge detection).
 - Create a panorama stitching tool using feature matching.
@@ -47,6 +57,16 @@ Master deep learning techniques for CV.
 
 ### 🛠️ **Tools**:
 - TensorFlow, Keras, PyTorch.
+
+### 📖 **Resources**:
+- **Books**:
+  - *Deep Learning for Computer Vision* by Rajalingappaa Shanmugamani.
+- **Courses**:
+  - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Andrew Ng (Coursera).
+  - [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/) (Stanford, free on YouTube).
+- **Websites**:
+  - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials).
+  - [PyTorch Tutorials](https://pytorch.org/tutorials/).
 
 ### 🎯 **Project Ideas**:
 - Classify images using a pre-trained CNN (e.g., cat vs. dog classification).
@@ -71,6 +91,13 @@ Learn to detect objects in images and videos.
 ### 🛠️ **Tools**:
 - TensorFlow Object Detection API, Detectron2 (Facebook), YOLOv5/v8.
 
+### 📖 **Resources**:
+- **Courses**:
+  - [Object Detection with TensorFlow](https://www.coursera.org/learn/object-detection-tensorflow) (Coursera).
+- **Websites**:
+  - [YOLOv5 GitHub Repository](https://github.com/ultralytics/yolov5).
+  - [Detectron2 Documentation](https://detectron2.readthedocs.io/).
+
 ### 🎯 **Project Ideas**:
 - Build a real-time object detection system (e.g., detect cars, pedestrians, or animals).
 - Create a custom object detector for a specific use case (e.g., detecting defects in manufacturing).
@@ -91,6 +118,13 @@ Divide images into meaningful regions.
 
 ### 🛠️ **Tools**:
 - TensorFlow, PyTorch, Detectron2.
+
+### 📖 **Resources**:
+- **Courses**:
+  - [Image Segmentation with TensorFlow](https://www.coursera.org/learn/image-segmentation-tensorflow) (Coursera).
+- **Websites**:
+  - [Mask R-CNN GitHub Repository](https://github.com/matterport/Mask_RCNN).
+  - [DeepLab Documentation](https://github.com/tensorflow/models/tree/master/research/deeplab).
 
 ### 🎯 **Project Ideas**:
 - Segment medical images (e.g., tumor detection in MRI scans).
@@ -115,6 +149,13 @@ Work with 3D data and reconstruction.
 ### 🛠️ **Tools**:
 - Open3D, PCL (Point Cloud Library), PyTorch3D.
 
+### 📖 **Resources**:
+- **Courses**:
+  - [3D Computer Vision](https://www.coursera.org/learn/3d-computer-vision) (Coursera).
+- **Websites**:
+  - [Open3D Documentation](http://www.open3d.org/docs/).
+  - [PyTorch3D Tutorials](https://pytorch3d.org/).
+
 ### 🎯 **Project Ideas**:
 - Build a depth estimation model using stereo images.
 - Create a 3D object reconstruction system from multiple 2D images.
@@ -135,6 +176,12 @@ Extend CV techniques to video data.
 
 ### 🛠️ **Tools**:
 - OpenCV, TensorFlow, PyTorch.
+
+### 📖 **Resources**:
+- **Courses**:
+  - [Video Analysis with OpenCV](https://www.udemy.com/course/opencv-video-analysis/) (Udemy).
+- **Websites**:
+  - [OpenCV Video Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html).
 
 ### 🎯 **Project Ideas**:
 - Build a motion detection system for surveillance.
@@ -157,6 +204,12 @@ Create and modify images using generative models.
 ### 🛠️ **Tools**:
 - TensorFlow, PyTorch.
 
+### 📖 **Resources**:
+- **Courses**:
+  - [Generative Adversarial Networks (GANs)](https://www.coursera.org/specializations/generative-adversarial-networks-gans) (Coursera).
+- **Websites**:
+  - [CycleGAN GitHub Repository](https://github.com/junyanz/CycleGAN).
+
 ### 🎯 **Project Ideas**:
 - Generate realistic faces using StyleGAN.
 - Build a photo-to-cartoon converter using CycleGAN.
@@ -175,7 +228,12 @@ Explore cutting-edge research in CV.
 - **Multimodal Learning**:
   - Combining vision with text or audio (e.g., CLIP, DALL-E).
 
-### �️ **Project Ideas**:
+### 📖 **Resources**:
+- **Websites**:
+  - [Papers with Code](https://paperswithcode.com/).
+  - [Google AI Blog](https://ai.googleblog.com/).
+
+### 🎯 **Project Ideas**:
 - Fine-tune a Vision Transformer for a custom dataset.
 - Build a multimodal system (e.g., image captioning or visual question answering).
 - Experiment with self-supervised learning for unsupervised feature extraction.
@@ -192,6 +250,12 @@ Deploy CV models in real-world scenarios.
   - TensorFlow Lite, ONNX, OpenVINO.
 - **Edge Devices**:
   - Run models on Raspberry Pi, NVIDIA Jetson, or mobile devices.
+
+### 📖 **Resources**:
+- **Courses**:
+  - [TensorFlow Lite for Mobile](https://www.coursera.org/learn/tensorflow-lite-for-mobile) (Coursera).
+- **Websites**:
+  - [TensorFlow Lite Documentation](https://www.tensorflow.org/lite).
 
 ### 🎯 **Project Ideas**:
 - Deploy a face recognition system on a Raspberry Pi.
@@ -213,19 +277,6 @@ Showcase your skills with a portfolio of projects.
 3. **Open Source Contributions**:
    - Contribute to OpenCV, TensorFlow, or PyTorch.
    - Publish your projects on GitHub with detailed documentation.
-
----
-
-## 📚 **Learning Resources**
-- **Books**:
-  - *Computer Vision: Algorithms and Applications* by Richard Szeliski.
-  - *Deep Learning for Computer Vision* by Rajalingappaa Shanmugamani.
-- **Courses**:
-  - *CS231n: Convolutional Neural Networks for Visual Recognition* (Stanford, free on YouTube).
-  - *Deep Learning Specialization* by Andrew Ng (Coursera).
-- **Websites**:
-  - [PyImageSearch](https://www.pyimagesearch.com/) (tutorials and blogs).
-  - [Papers with Code](https://paperswithcode.com/) (latest research papers and code implementations).
 
 ---
 
